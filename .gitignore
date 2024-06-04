@@ -17,7 +17,6 @@ logs/
 dta/
 keys/
 ban.txt
-DayZServer_x64.exe
 dayz.gproj
 dayzsetting.xml
 whitelist.txt
@@ -30,6 +29,8 @@ whitelist.txt
 *.log
 *.vdf
 *.ch
+*.bak
+*.exe
 desktop.ini
 mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/
