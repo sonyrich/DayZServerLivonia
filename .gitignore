@@ -30,6 +30,7 @@ whitelist.txt
 *.log
 *.vdf
 *.ch
+desktop.ini
 mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/
 mpmissions/dayzOffline.chernarusplus/storage_0/
@@ -37,8 +38,11 @@ mpmissions/dayzOffline.chernarusplus/storage_1/
 mpmissions/expansion.enoch/storage_0/
 mpmissions/expansion.enoch/areaflags.map
 mpmissions/expansion.enoch/storage_1/
+
+#VPP
 config/VPPAdminTools/Logging/*.txt
 config/VPPAdminTools/Permissions/credentials.txt
+config/Users/
 
 #Expansions
 config/ExpansionMod/Groups/
@@ -46,8 +50,6 @@ config/ExpansionMod/ATM/
 config/ExpansionMod/Hardline/PlayerData/
 config/ExpansionMod/Quests/PlayerData/
 config/ExpansionMod/Quests/GroupData/
-
-desktop.ini
 
 #include
 !DayzServer.bat

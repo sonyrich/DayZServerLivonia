@@ -1,8 +1,8 @@
 {
-    "m_Version": 9,
+    "m_Version": 13,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
-    "CurrencyIcon": "DayZExpansion/Market/GUI/icons/coinstack2_64x64.edds",
+    "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
     "ATMSystemEnabled": 1,
     "MaxDepositMoney": 100000,
     "DefaultDepositMoney": 10000,
@@ -20,7 +20,7 @@
     "LandSpawnPositions": [
         {
             "Position": [
-                6218.46,
+                6218.4599609375,
                 310.0,
                 6126.0
             ],
@@ -32,7 +32,7 @@
         },
         {
             "Position": [
-                6223.12,
+                6223.1201171875,
                 310.0,
                 6107.0
             ],
@@ -44,69 +44,69 @@
         },
         {
             "Position": [
-                11051.6,
+                11051.599609375,
                 358.0,
-                2453.06
+                2453.06005859375
             ],
             "Orientation": [
-                -99.8507,
+                -99.85070037841797,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                11073.7,
+                11073.7001953125,
                 360.0,
-                2456.6
+                2456.60009765625
             ],
             "Orientation": [
-                -103.464,
+                -103.46399688720703,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                3180.36,
-                431.8,
-                3034.29
+                3180.360107421875,
+                431.79998779296877,
+                3034.2900390625
             ],
             "Orientation": [
-                -72.15,
+                -72.1500015258789,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                3174.27,
-                430.6,
-                3015.69
+                3174.27001953125,
+                430.6000061035156,
+                3015.68994140625
             ],
             "Orientation": [
-                -72.15,
+                -72.1500015258789,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                11468.4,
-                177.1,
-                9084.79
+                11468.400390625,
+                177.10000610351563,
+                9084.7900390625
             ],
             "Orientation": [
-                62.057,
+                62.05699920654297,
                 0.0,
                 0.0
             ]
         },
         {
             "Position": [
-                11451.3,
-                176.82,
-                9080.83
+                11451.2998046875,
+                176.82000732421876,
+                9080.830078125
             ],
             "Orientation": [
                 90.0,
@@ -137,8 +137,8 @@
                 0.0,
                 0.0
             ]
-        }		
-	],
+        }
+    ],
     "AirSpawnPositions": [],
     "WaterSpawnPositions": [],
     "MarketMenuColors": {
@@ -184,5 +184,11 @@
         "expansiongoldnugget",
         "expansionsilverbar",
         "expansionsilvernugget"
-    ]
+    ],
+    "VehicleKeys": [
+        "ExpansionCarKey"
+    ],
+    "MaxSZVehicleParkingTime": 1800.0,
+    "SZVehicleParkingTicketFine": 0,
+    "TrainSpawnPositions": []
 }

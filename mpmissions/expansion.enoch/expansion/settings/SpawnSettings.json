@@ -1,0 +1,261 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "Bielawa",
+            "Positions": [
+                [
+                    1291.6142578125,
+                    286.4041748046875,
+                    9849.0498046875
+                ],
+                [
+                    1488.8697509765626,
+                    284.999755859375,
+                    9866.576171875
+                ],
+                [
+                    1692.6441650390626,
+                    286.8250732421875,
+                    9950.5595703125
+                ],
+                [
+                    1772.42431640625,
+                    275.3841552734375,
+                    9837.3271484375
+                ],
+                [
+                    1107.232177734375,
+                    282.66778564453127,
+                    9262.4423828125
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Lukow",
+            "Positions": [
+                [
+                    3028.617431640625,
+                    271.8551330566406,
+                    12067.580078125
+                ],
+                [
+                    3243.9892578125,
+                    250.7246856689453,
+                    11933.79296875
+                ],
+                [
+                    3640.191162109375,
+                    244.44606018066407,
+                    12446.8759765625
+                ],
+                [
+                    4053.288818359375,
+                    242.4552001953125,
+                    11554.08203125
+                ],
+                [
+                    3397.184326171875,
+                    263.20574951171877,
+                    11606.515625
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Brena",
+            "Positions": [
+                [
+                    6116.87939453125,
+                    185.59963989257813,
+                    11316.484375
+                ],
+                [
+                    6237.9833984375,
+                    170.83348083496095,
+                    10880.1376953125
+                ],
+                [
+                    6600.86328125,
+                    188.71290588378907,
+                    11543.671875
+                ],
+                [
+                    7015.44921875,
+                    172.51670837402345,
+                    11113.072265625
+                ],
+                [
+                    6426.08447265625,
+                    201.5269012451172,
+                    11602.169921875
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Kolembrody",
+            "Positions": [
+                [
+                    8350.314453125,
+                    202.8677520751953,
+                    12259.904296875
+                ],
+                [
+                    8590.466796875,
+                    172.58555603027345,
+                    11946.4501953125
+                ],
+                [
+                    8294.5390625,
+                    174.66209411621095,
+                    11968.5693359375
+                ],
+                [
+                    8553.80078125,
+                    187.72311401367188,
+                    12174.58203125
+                ]
+            ],
+            "UseCooldown": 1
+        },
+        {
+            "Name": "Grabin",
+            "Positions": [
+                [
+                    11212.15625,
+                    197.50184631347657,
+                    11669.453125
+                ],
+                [
+                    11171.6455078125,
+                    174.06480407714845,
+                    11324.0107421875
+                ],
+                [
+                    10999.5126953125,
+                    173.88735961914063,
+                    11395.9130859375
+                ],
+                [
+                    11345.7900390625,
+                    181.3823699951172,
+                    11485.919921875
+                ],
+                [
+                    11187.93359375,
+                    170.95196533203126,
+                    11216.2841796875
+                ],
+                [
+                    10829.2763671875,
+                    173.663818359375,
+                    11294.203125
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "TShirt_Green",
+            "TShirt_Blue",
+            "TShirt_Black",
+            "TShirt_Beige",
+            "TShirt_Red",
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_White",
+            "TShirt_Red",
+            "TShirt_Grey",
+            "TShirt_RedBlackStripes"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "CanvasPants_Beige",
+            "CanvasPants_Blue",
+            "CanvasPants_Grey",
+            "CanvasPants_Red",
+            "CanvasPants_Violet",
+            "CanvasPantsMidi_Beige",
+            "CanvasPantsMidi_Blue",
+            "CanvasPantsMidi_Grey",
+            "CanvasPantsMidi_Red",
+            "CanvasPantsMidi_Violet"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Grey",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": [
+            "TaloonBag_Blue",
+            "TaloonBag_Green",
+            "TaloonBag_Orange",
+            "TaloonBag_Violet"
+        ]
+    },
+    "EnableSpawnSelection": 1,
+    "SpawnOnTerritory": 0,
+    "StartingGear": {
+        "EnableStartingGear": 1,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Apple",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Chemlight_White",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 500.0,
+    "SpawnWaterValue": 500.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}
