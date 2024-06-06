@@ -116,7 +116,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "bone",
             "MaxPriceThreshold": 600,
             "MinPriceThreshold": 600,
@@ -127,7 +127,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "chickenfeather",
             "MaxPriceThreshold": 300,
             "MinPriceThreshold": 300,
@@ -138,7 +138,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "smallguts",
             "MaxPriceThreshold": 250,
             "MinPriceThreshold": 250,
@@ -149,7 +149,7 @@
             "SpawnAttachments": [],
             "Variants": []
         },
-		{
+        {
             "ClassName": "guts",
             "MaxPriceThreshold": 500,
             "MinPriceThreshold": 500,
