@@ -10,7 +10,7 @@
             "ClassName": "bearsteakmeat",
             "MaxPriceThreshold": 16000,
             "MinPriceThreshold": 14000,
-            "SellPricePercent": 0.1, 
+            "SellPricePercent": -1, 
             "MaxStockThreshold": 100,
             "MinStockThreshold": 50,
             "QuantityPercent": -1,
