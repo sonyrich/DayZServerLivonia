@@ -8,10 +8,10 @@
     "Items": [
         {
             "ClassName": "vss",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -21,10 +21,10 @@
         },
         {
             "ClassName": "asval",
-            "MaxPriceThreshold": 3200,
-            "MinPriceThreshold": 1600,
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -34,10 +34,10 @@
         },
         {
             "ClassName": "b95",
-            "MaxPriceThreshold": 3400,
-            "MinPriceThreshold": 1700,
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 24000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -45,10 +45,10 @@
         },
         {
             "ClassName": "svd",
-            "MaxPriceThreshold": 4000,
-            "MinPriceThreshold": 2000,
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 40000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -58,10 +58,10 @@
         },
         {
             "ClassName": "scout_livonia",
-            "MaxPriceThreshold": 4200,
-            "MinPriceThreshold": 2100,
+            "MaxPriceThreshold": 20400,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -71,10 +71,10 @@
         },
         {
             "ClassName": "expansion_awm",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 5000,
+            "MaxPriceThreshold": 42000,
+            "MinPriceThreshold": 42000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
