@@ -8,10 +8,10 @@
     "Items": [
         {
             "ClassName": "makarovij70",
-            "MaxPriceThreshold": 200,
-            "MinPriceThreshold": 100,
+            "MaxPriceThreshold": 14000,
+            "MinPriceThreshold": 14000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -21,10 +21,10 @@
         },
         {
             "ClassName": "derringer_black",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 12500,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -35,10 +35,10 @@
         },
         {
             "ClassName": "cz75",
-            "MaxPriceThreshold": 270,
-            "MinPriceThreshold": 135,
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 16500,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -48,10 +48,10 @@
         },
         {
             "ClassName": "fnx45",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 175,
+            "MaxPriceThreshold": 19500,
+            "MinPriceThreshold": 19000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -61,10 +61,10 @@
         },
         {
             "ClassName": "glock19",
-            "MaxPriceThreshold": 600,
-            "MinPriceThreshold": 300,
+            "MaxPriceThreshold": 20500,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -74,10 +74,10 @@
         },
         {
             "ClassName": "mkii",
-            "MaxPriceThreshold": 640,
-            "MinPriceThreshold": 320,
+            "MaxPriceThreshold": 19500,
+            "MinPriceThreshold": 19000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -87,10 +87,10 @@
         },
         {
             "ClassName": "colt1911",
-            "MaxPriceThreshold": 680,
-            "MinPriceThreshold": 340,
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -100,10 +100,10 @@
         },
         {
             "ClassName": "engraved1911",
-            "MaxPriceThreshold": 680,
-            "MinPriceThreshold": 340,
+            "MaxPriceThreshold": 21500,
+            "MinPriceThreshold": 20500,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -113,10 +113,10 @@
         },
         {
             "ClassName": "magnum",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 24000,
+            "MinPriceThreshold": 23000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -124,10 +124,10 @@
         },
         {
             "ClassName": "deagle",
-            "MaxPriceThreshold": 800,
-            "MinPriceThreshold": 400,
+            "MaxPriceThreshold": 25000,
+            "MinPriceThreshold": 24000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -139,10 +139,10 @@
         },
         {
             "ClassName": "deagle_gold",
-            "MaxPriceThreshold": 1000,
-            "MinPriceThreshold": 500,
+            "MaxPriceThreshold": 25500,
+            "MinPriceThreshold": 25000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -152,10 +152,10 @@
         },
         {
             "ClassName": "p1",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 250,
+            "MaxPriceThreshold": 21500,
+            "MinPriceThreshold": 21000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
@@ -165,10 +165,10 @@
         },
         {
             "ClassName": "longhorn",
-            "MaxPriceThreshold": 400,
-            "MinPriceThreshold": 200,
+            "MaxPriceThreshold": 21000,
+            "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 7,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -176,10 +176,10 @@
         },
         {
             "ClassName": "expansion_m9",
-            "MaxPriceThreshold": 350,
-            "MinPriceThreshold": 175,
+            "MaxPriceThreshold": 22500,
+            "MinPriceThreshold": 22000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
