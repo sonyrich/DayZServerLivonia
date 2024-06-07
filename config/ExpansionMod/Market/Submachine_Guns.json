@@ -49,8 +49,8 @@
         },
         {
             "ClassName": "aks74u",
-            "MaxPriceThreshold": 29000,
-            "MinPriceThreshold": 29000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
