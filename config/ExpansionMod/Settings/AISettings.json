@@ -1,9 +1,9 @@
 {
     "m_Version": 10,
     "AccuracyMin": 0.3499999940395355,
-    "AccuracyMax": 0.949999988079071,
+    "AccuracyMax": 0.909999988079071,
     "ThreatDistanceLimit": 1000.0,
-    "NoiseInvestigationDistanceLimit": 500.0,
+    "NoiseInvestigationDistanceLimit": 800.0,
     "DamageMultiplier": 1.0,
     "DamageReceivedMultiplier": 1.0,
     "Admins": [],
@@ -17,5 +17,7 @@
     "PreventClimb": [],
     "PlayerFactions": [],
     "LogAIHitBy": 1,
-    "LogAIKilled": 1
+    "LogAIKilled": 1,
+    "Speed": "WALK",
+    "UnderThreatSpeed": "SPRINT",
 }
