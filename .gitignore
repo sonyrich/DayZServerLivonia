@@ -35,6 +35,7 @@ whitelist.txt
 *.bak
 *.exe
 desktop.ini
+/config/DataCache
 mpmissions/dayzOffline.enoch/
 mpmissions/dayzOffline.chernarusplus/
 mpmissions/dayzOffline.chernarusplus/storage_0/
