@@ -14,9 +14,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_vss_10rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -27,9 +25,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_val_20rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -51,9 +47,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_svd_10rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -64,9 +58,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_scout_5rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -77,9 +69,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_awm_5rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]
