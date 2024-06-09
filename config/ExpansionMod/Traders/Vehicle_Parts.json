@@ -12,7 +12,9 @@
     "DisplayCurrencyValue": 1,
     "DisplayCurrencyName": "",
     "Categories": [
-        "Vehicle_Parts"
+        "Vehicle_Parts",
+        "A2_Parts_Helicopters",
+        "A2_Spraycans"
     ],
     "Items": {
         "tirerepairkit": 1,

@@ -58,3 +58,7 @@ config/ExpansionMod/Quests/GroupData/
 
 #include
 !DayzServer.bat
+/@AmmoStackBullet
+/@InventoryInCar
+/@SNAFU
+/@Repack Ammo

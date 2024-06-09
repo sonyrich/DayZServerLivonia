@@ -28,19 +28,29 @@
         "Bayonets:3",
         "Optics:3",
         "Buttstocks:3",
-        "Handguards:3"
+        "Handguards:3",
+        "Snafu_Weapons",
+        "Snafu_Mags:3",
+        "Snafu_Ammo:3",
+        "Snafu_Bipods:3",
+        "Snafu_Extras:3",
+        "Snafu_Grips:3",
+        "Snafu_Handguards:3",
+        "Snafu_Scopes:3",
+        "Snafu_Stocks:3",
+        "Snafu_Suppressors:3"
     ],
     "Items": {
-        "expansionammorpg": 3,
-        "ammo_expansion_m203_smoke_white": 3,
-        "tlrlight": 3,
-        "ammo_expansion_m203_sticky_smoke_teargas": 3,
-        "universallight": 3,
-        "ammo_expansion_m203_smoke_teargas": 3,
-        "flaregun": 1,
-        "expansion_ammo_taser": 3,
         "ammo_expansion_m203_he": 3,
+        "ammo_expansion_m203_smoke_teargas": 3,
+        "ammo_expansion_m203_smoke_white": 3,
+        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "ammo_expansion_m203_sticky_smoke_white": 3,
+        "expansion_ammo_taser": 3,
         "expansionammolaw": 3,
-        "ammo_expansion_m203_sticky_smoke_white": 3
+        "expansionammorpg": 3,
+        "flaregun": 1,
+        "tlrlight": 3,
+        "universallight": 3
     }
 }
