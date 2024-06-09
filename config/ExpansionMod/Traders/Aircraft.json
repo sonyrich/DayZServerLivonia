@@ -13,8 +13,11 @@
     "DisplayCurrencyName": "",
     "Categories": [
         "Helicopters",
+        "A2_Helicopters",
+        "A2_Parts_Helicopters:3",
         "Vehicle_Parts:3",
-        "Batteries:3"
+        "Batteries:3",
+        "A2_Spraycans:3"
     ],
     "Items": {}
 }
