@@ -100,8 +100,8 @@
         },
         {
             "ClassName": "pot",
-            "MaxPriceThreshold": 3000,
-            "MinPriceThreshold": 3000,
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 10,
             "MinStockThreshold": 1,
