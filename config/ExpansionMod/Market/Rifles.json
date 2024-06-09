@@ -25,9 +25,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_ruger1022_15rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -60,9 +58,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz527_5rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -73,9 +69,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz550_4rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -97,9 +91,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_ssg82_5rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -110,9 +102,7 @@
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "sks_bayonet"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -134,9 +124,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_m14_10rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -147,9 +135,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_m14_10rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]
