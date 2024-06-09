@@ -48,9 +48,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "saiga_bttstck",
-                "mag_saiga_8rnd"
-            ],
+                "saiga_bttstck"],
             "Variants": []
         },
         {
