@@ -14,9 +14,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_ij70_8rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -41,9 +39,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz75_15rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -51,12 +47,10 @@
             "MaxPriceThreshold": 19500,
             "MinPriceThreshold": 19000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_fnx45_15rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -67,9 +61,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_glock_15rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -80,9 +72,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_mkii_10rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -93,9 +83,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_1911_7rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -107,8 +95,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "mag_1911_7rnd"
-            ],
+],
             "Variants": []
         },
         {
@@ -130,9 +117,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_deagle_9rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": [
                 "deagle_gold"
             ]
@@ -145,9 +130,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_deagle_9rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -158,9 +141,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_p1_8rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -168,7 +149,7 @@
             "MaxPriceThreshold": 21000,
             "MinPriceThreshold": 20000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 7,
+            "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -182,9 +163,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_m9_15rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         }
     ]
