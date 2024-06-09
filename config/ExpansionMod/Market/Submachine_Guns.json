@@ -14,9 +14,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz61_20rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -27,9 +25,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_ump_25rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -42,9 +38,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "mp5k_stockbttstck",
-                "mp5_plastichndgrd",
-                "mag_mp5_30rnd"
-            ],
+                "mp5_plastichndgrd"],
             "Variants": []
         },
         {
@@ -56,9 +50,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "aks74u_bttstck",
-                "mag_ak74_30rnd"
-            ],
+                "aks74u_bttstck"],
             "Variants": []
         },
         {
@@ -70,9 +62,7 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "pp19_bttstck",
-                "mag_pp19_64rnd"
-            ],
+                "pp19_bttstck"],
             "Variants": []
         },
         {
@@ -83,9 +73,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_kedr_20rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -96,9 +84,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_mpx_50rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -109,9 +95,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_mp5_30rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -122,9 +106,7 @@
             "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_mp5_30rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -135,9 +117,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_expansion_mp7_40rnd"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -150,9 +130,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [
                 "ak_plasticbttstck",
-                "ak_plastichndgrd",
-                "mag_expansion_vityaz_30rnd"
-            ],
+                "ak_plastichndgrd"],
             "Variants": []
         }
     ]
