@@ -52,8 +52,8 @@
         },
         {
             "ClassName": "ammobox_308win_20rnd",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 12000,
+            "MinPriceThreshold": 12000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 50,
             "MinStockThreshold": 1,
