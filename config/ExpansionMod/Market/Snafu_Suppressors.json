@@ -1,6 +1,6 @@
 {
     "m_Version": 12,
-    "DisplayName": "SNAFU SUPPRESSORS",
+    "DisplayName": "Snafu Suppressors",
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
@@ -8,10 +8,10 @@
     "Items": [
         {
             "ClassName": "GCGN_M1Garand_Supp",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 8000,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 3,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -19,10 +19,21 @@
         },
         {
             "ClassName": "SR3_Vikhr_Supp",
-            "MaxPriceThreshold": 8000,
-            "MinPriceThreshold": 8000,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 3,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_Normalized_Suppressor_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
@@ -30,29 +41,36 @@
         },
         {
             "ClassName": "SNAFU_Normalized_Suppressor_Black",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 2,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "SNAFU_Normalized_Suppressor_Green"
-            ]
+            "Variants": []
         },
         {
             "ClassName": "SNAFU_Standardized_Suppressor_Black",
-            "MaxPriceThreshold": 10000,
-            "MinPriceThreshold": 10000,
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 2,
+            "MaxStockThreshold": 100,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
-            "Variants": [
-                "SNAFU_Standardized_Suppressor_Green"
-            ]
+            "Variants": []
+        },
+        {
+            "ClassName": "SNAFU_Standardized_Suppressor_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         },
         {
             "ClassName": "SNAFU_LNormalized_Suppressor_Black",
