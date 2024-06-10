@@ -221,8 +221,8 @@
         },
         {
             "ClassName": "GCGN_VEPR",
-            "MaxPriceThreshold": 35000,
-            "MinPriceThreshold": 35000,
+            "MaxPriceThreshold": 29000,
+            "MinPriceThreshold": 29000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
@@ -449,8 +449,8 @@
         },
         {
             "ClassName": "SNAFU_KAC_Gun",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 32000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
