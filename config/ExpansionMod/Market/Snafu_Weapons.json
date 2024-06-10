@@ -1220,8 +1220,8 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": [
-			    "SNAFU_AR15SPRTAN"
-			]
+                "SNAFU_AR15SPRTAN"
+            ]
         },
         {
             "ClassName": "SNAFU_M4300AC_10_GUN",
