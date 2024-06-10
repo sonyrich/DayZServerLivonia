@@ -449,10 +449,10 @@
         },
         {
             "ClassName": "SNAFU_KAC_Gun",
-            "MaxPriceThreshold": 20000,
-            "MinPriceThreshold": 15000,
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 30000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
+            "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
