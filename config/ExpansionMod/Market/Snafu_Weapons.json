@@ -754,8 +754,8 @@
         },
         {
             "ClassName": "SNAFU_CALI_GUN",
-            "MaxPriceThreshold": 30000,
-            "MinPriceThreshold": 30000,
+            "MaxPriceThreshold": 28000,
+            "MinPriceThreshold": 28000,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
