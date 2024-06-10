@@ -9,6 +9,11 @@
 @Arma 2 Helicopters Remastered/
 @Combinable RepairKits/
 @Pristine Repair/
+@AmmoStackBullet/
+@InventoryInCar/
+@SNAFU/
+@Repack Ammo/
+@Ambient Animals Pack/
 
 #server files
 addons/
@@ -55,10 +60,7 @@ config/ExpansionMod/ATM/
 config/ExpansionMod/Hardline/PlayerData/
 config/ExpansionMod/Quests/PlayerData/
 config/ExpansionMod/Quests/GroupData/
+mpmissions/expansion.enoch/expansion/traderzones/World.json
 
 #include
 !DayzServer.bat
-/@AmmoStackBullet
-/@InventoryInCar
-/@SNAFU
-/@Repack Ammo

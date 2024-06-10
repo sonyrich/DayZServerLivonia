@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9081.55" z="10794.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9579.87" z="10692.5" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9321.49" z="11013.2" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9625.27" z="10365.7" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9295.55" z="10875.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9354.32" z="10583.8" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9443.15" z="10897.5" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9457.36" z="10394.6" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9160.92" z="10912.6" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9812.47" z="10534.6" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9491.38" z="10767.7" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4934.1" z="7663.85" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3923.95" z="8433.12" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4242.9" z="8966.45" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4959.48" z="7474.93" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3996.31" z="7960.87" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4922.85" z="7857.75" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3963.78" z="8210.46" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4844.87" z="7537.09" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3948" z="8083.71" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4740.7" z="7649.72" r="75"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11428.2" z="2928.33" r="75"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10603.3" z="11221.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10999" z="11222.1" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10760.5" z="11108.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10676.8" z="11181.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10865.9" z="11256.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10387.3" z="11096.6" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10939.7" z="10995.6" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10726.4" z="10803.7" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10693.5" z="10951.1" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10574.5" z="11036.2" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10438.4" z="11157.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10818.8" z="10864.4" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10873.4" z="11082.1" r="50"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11865.3" z="4533.79" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11297.7" z="4519.29" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11600.7" z="4685.95" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11112.9" z="4251.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12066.9" z="4489.71" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11160.1" z="4402.16" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10991.8" z="4208.61" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11166.5" z="4293.04" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12202.4" z="4549.86" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11212.7" z="4367.92" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11168.5" z="4295.63" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11317.8" z="4369.38" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11112.1" z="4256.81" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11022.3" z="4379.02" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11398.9" z="4378.28" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11451.6" z="4486.23" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12004.2" z="5020.53" r="100"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11574.2" z="4592.32" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11626.6" z="4843.93" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11517.6" z="4710.46" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10829.2" z="4249.44" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11780.8" z="4555.67" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10884.5" z="4319.42" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11448.6" z="4638.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11703.5" z="4537.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11885" z="5320" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12045.2" z="928.139" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11348.7" z="636.934" r="105"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10855.7" z="964.124" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11677.9" z="397.891" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11150.1" z="762.244" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8448.96" z="12008.3" r="125"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8479.69" z="11768.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8009.38" z="11603.1" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8006.25" z="11687.5" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8266.67" z="12159.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9314.58" z="11445.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8966.67" z="11227.1" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9754.17" z="12260.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9766.67" z="11468.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9016.67" z="12612.5" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11402.2" z="9717.64" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11208.7" z="9506.54" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11416.6" z="9070.56" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11537" z="9774.75" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11634.8" z="9546.98" r="100"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11483.4" z="9534.19" r="25"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="9139.29" z="4414.21" r="100"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12434.5" z="6244.59" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1298.42" z="9570.16" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="950.562" z="9566.39" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1443.53" z="9494.76" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4222.25" z="8948.13" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4310.2" z="8948.96" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4183.53" z="9030.04" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1413.47" z="9755.37" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1663.88" z="9704.66" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6546.33" z="9258.99" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1664.92" z="9784.98" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1566.73" z="9772.1" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1612.33" z="9815.07" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1685.88" z="9906.22" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="8841.19" z="6640.63" r="100"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12125.1" z="10648.2" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="12449.5" z="11924.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="10791.9" z="12555.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1681.56" z="3447.45" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3212.78" z="3628.92" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11327.3" z="8016.07" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11281.6" z="7908.27" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11884.5" z="7376.39" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="11917.3" z="7359.89" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3017.9" z="1148.27" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3210" z="2105" r="75"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2994.2" z="6742.19" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3303.1" z="6894.19" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3492.26" z="6525.26" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2822.15" z="6757.33" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3086.45" z="6881.91" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3017.31" z="6590.48" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2880.78" z="6686.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2957.31" z="6593.89" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3014.74" z="6814.61" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3284.68" z="6671.84" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3356.38" z="6874.61" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3187.54" z="6868.47" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3316.82" z="6611.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3265.65" z="6825.08" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3179.07" z="6730.37" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1841.67" z="7204.17" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1046.98" z="7192.23" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1359.07" z="7637.72" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1887.35" z="7127.34" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1124.07" z="7157.64" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1153.4" z="7426.69" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1321.99" z="7416.13" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2020.39" z="7482.44" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1215.21" z="7231.55" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1791.39" z="7273.55" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1963.99" z="6902.27" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1500.79" z="7253.41" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1370.46" z="7417.46" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1856.82" z="7073.44" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1758.78" z="6964.15" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1957.95" z="6811.24" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1420.98" z="7403.49" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1916.06" z="7010.03" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2104.23" z="7485.87" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1904.53" z="7362.37" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1600.07" z="7351.79" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1949.56" z="7085.29" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2021.39" z="7066.69" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1653.39" z="7346.16" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1767.15" z="7478.94" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1890.81" z="7434.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1798.09" z="7375.96" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1708.29" z="7376.81" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1070.04" z="7260.95" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1170.84" z="7275.23" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1429.51" z="7638.51" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1810.85" z="6992.16" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2027.92" z="6945.92" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1231.34" z="7367.13" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1613.54" z="7436.32" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1173.03" z="7274.68" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1733.98" z="7281.45" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1384.04" z="7278.22" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2034.59" z="6773.85" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1326.45" z="7258.52" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2157.95" z="7517.26" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2181.79" z="6766.31" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1476.28" z="7327.79" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="1995.71" z="6852.52" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6301.56" z="10064.1" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6433.97" z="11289.2" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6248.11" z="10463.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6392.63" z="11428.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6515.98" z="11515.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6451.67" z="10297.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6328.3" z="10482.1" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6236.08" z="10208.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6212.69" z="10325.5" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6430.25" z="11206.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6658.14" z="11604.5" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6330.31" z="10267.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6312.78" z="10411.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6858.75" z="11131" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6698.47" z="10547" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6248.06" z="10465.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6597.14" z="10867.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6283.06" z="10552.6" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6442.86" z="11502.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6208.13" z="10128.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6496.2" z="11243.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6413.56" z="11358.8" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6430.64" z="11145.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6225.5" z="10379.4" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6332.48" z="10328.3" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6538.13" z="11390.2" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6728.72" z="11176.5" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6477.17" z="11077.6" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6567.7" z="11287.2" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6029.17" z="4232.64" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6272.93" z="4299.78" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6382.17" z="4520.26" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5959.26" z="4347.01" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5840.12" z="4006.86" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6222.54" z="4209.88" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6817.73" z="3844.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5825.71" z="4084.66" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5986.07" z="4281.73" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5687.64" z="3981.17" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5882.37" z="4240.83" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6143.18" z="4195.27" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6133.6" z="4017.68" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5980.01" z="4403.78" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5379.21" z="3775.69" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6157.2" z="4303.68" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6220.01" z="4024.75" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5984.06" z="4026.48" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5840.26" z="3873.65" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6268.42" z="4158.15" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6013.79" z="4154.73" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5824.74" z="4279.36" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6048.09" z="4083.29" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="7073.2" z="3913.49" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6030.79" z="4347.67" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6406.32" z="4420.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5923.64" z="4009.45" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="6217.15" z="4129.09" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4674.52" z="3071.88" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2011.11" z="5925" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2846.19" z="5325.7" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="930.22" z="5589.15" r="150"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="2443.17" z="5634.29" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3242.14" z="4980.46" r="150"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5192.5" z="9695" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4856.42" z="9984.92" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5006.95" z="9893.14" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4927.95" z="9759.17" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4726.77" z="10118.9" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5189.86" z="9550.67" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5118.92" z="10039.5" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5293.77" z="9764.71" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5054.99" z="9804.1" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5090.88" z="9703.13" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5053.83" z="10129.5" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4921.16" z="9918.68" r="25"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="5008.05" z="9988.96" r="25"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3518.75" z="12000" r="50"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3385.42" z="12137.5" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3770.83" z="11668.8" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="3633.33" z="11858.3" r="50"/>
+    </territory>
+    <territory color="4278190080">
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4905" z="7837.5" r="125"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4000" z="7995" r="150"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4895" z="7482.5" r="75"/>
+        <zone name="Zone_Rabbit" smin="0" smax="0" dmin="0" dmax="0" x="4767.5" z="7615" r="75"/>
+    </territory>
+</territory-type>
