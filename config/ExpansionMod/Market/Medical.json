@@ -215,5 +215,16 @@
             "SpawnAttachments": [],
             "Variants": []
         }
+        {
+            "ClassName": "AntiViperInjector",
+            "MaxPriceThreshold": 6000,
+            "MinPriceThreshold": 6000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 2,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
     ]
 }
