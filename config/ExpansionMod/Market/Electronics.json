@@ -120,17 +120,6 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        },
-        {
-            "ClassName": "battery9v",
-            "MaxPriceThreshold": 2000,
-            "MinPriceThreshold": 2000,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 50,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
+        }
     ]
 }
