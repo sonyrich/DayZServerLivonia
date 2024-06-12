@@ -25,9 +25,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -60,9 +58,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -95,9 +91,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -108,9 +102,7 @@
             "MaxStockThreshold": 6,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -121,9 +113,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -167,9 +157,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -180,9 +168,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -193,9 +179,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -206,9 +190,7 @@
             "MaxStockThreshold": 5,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -241,9 +223,7 @@
             "MaxStockThreshold": 4,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -265,9 +245,7 @@
             "MaxStockThreshold": 3,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
+            "SpawnAttachments": [],
             "Variants": []
         },
         {
@@ -279,7 +257,6 @@
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [
-                "battery9v",
                 "expansiondeltapointoptic"
             ],
             "Variants": []
