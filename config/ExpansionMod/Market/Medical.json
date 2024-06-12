@@ -214,7 +214,7 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
-        }
+        },
         {
             "ClassName": "AntiViperInjector",
             "MaxPriceThreshold": 6000,
