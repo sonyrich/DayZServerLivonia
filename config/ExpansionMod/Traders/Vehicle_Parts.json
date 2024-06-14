@@ -14,7 +14,8 @@
     "Categories": [
         "Vehicle_Parts",
         "A2_Parts_Helicopters",
-        "A2_Spraycans"
+        "A2_Spraycans",
+        "Batteries"
     ],
     "Items": {
         "tirerepairkit": 1,
