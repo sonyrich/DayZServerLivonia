@@ -139,7 +139,20 @@
             ]
         }
     ],
-    "AirSpawnPositions": [],
+    "AirSpawnPositions": [
+        {
+            "Position": [
+                6233.0,
+                310.0,
+                6109.0
+            ],
+            "Orientation": [
+                -3.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
     "WaterSpawnPositions": [],
     "MarketMenuColors": {
         "BaseColorVignette": "000000C8",
