@@ -29,17 +29,6 @@
             "Variants": []
         },
         {
-            "ClassName": "electronicrepairkit",
-            "MaxPriceThreshold": 500,
-            "MinPriceThreshold": 500,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 5,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "cablereel",
             "MaxPriceThreshold": 150,
             "MinPriceThreshold": 150,
