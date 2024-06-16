@@ -907,10 +907,10 @@
         },
         {
             "ClassName": "SNAFUM96",
-            "MaxPriceThreshold": 31000,
-            "MinPriceThreshold": 31000,
+            "MaxPriceThreshold": 93000,
+            "MinPriceThreshold": 93000,
             "SellPricePercent": -1.0,
-            "MaxStockThreshold": 4,
+            "MaxStockThreshold": 2,
             "MinStockThreshold": 1,
             "QuantityPercent": -1,
             "SpawnAttachments": [],
