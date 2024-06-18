@@ -1,11 +1,67 @@
 {
     "m_TeleportLocations": [
         {
-            "m_Name": "Green Mountain",
+            "m_Name": "Traders - Central",
             "m_Position": [
-                3707.7939453125,
-                0.0,
-                5997.56640625
+                6153,
+                310,
+                6127
+            ]
+        },
+        {
+            "m_Name": "Traders - Kulno",
+            "m_Position": [
+                11030,
+                359,
+                2468
+            ]
+        },
+        {
+            "m_Name": "Traders - NorthPolana",
+            "m_Position": [
+                3166,
+                430,
+                2995
+            ]
+        },
+        {
+            "m_Name": "Traders - Sitnik",
+            "m_Position": [
+                11441,
+                183,
+                9066
+            ]
+        },
+        {
+            "m_Name": "Traders - Sitnik Black Market",
+            "m_Position": [
+                11619,
+                193,
+                9840
+            ]
+        },
+        {
+            "m_Name": "Traders - South West Hunter",
+            "m_Position": [
+                4396,
+                383,
+                3083
+            ]
+        },
+        {
+            "m_Name": "Traders - Topolin",
+            "m_Position": [
+                1288,
+                183,
+                7684
+            ]
+        },
+        {
+            "m_Name": "Traders - Zalesie Black Market",
+            "m_Position": [
+                878,
+                243,
+                5482
             ]
         }
     ]

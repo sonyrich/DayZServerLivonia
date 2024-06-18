@@ -52,4 +52,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<file name="pet_events.xml" type="events" />
 		<file name="pet_types.xml" type="types" />
 	</ce>
+	<ce folder="house_ce">
+		<file name="house_types.xml" type="types" />
+	</ce>
 </economycore>

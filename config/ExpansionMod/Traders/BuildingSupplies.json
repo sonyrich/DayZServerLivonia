@@ -18,6 +18,8 @@
         "Locks",
         "Containers",
         "Tents",
+        "BBP_Kits",
+        "BBP_Others",
         "Furnishings",
         "Flags"
     ],

@@ -1,19 +1,5 @@
 #mods
-@CF/
-@DF/
-@DayZ-Expansion-Animations/
-@DayZ-Expansion-Bundle/
-@DayZ-Expansion-Licensed/
-@VPPAdminTools/
-@ZomBerry Admin Tools/
-@Arma 2 Helicopters Remastered/
-@Combinable RepairKits/
-@Pristine Repair/
-@AmmoStackBullet/
-@InventoryInCar/
-@SNAFU/
-@Repack Ammo/
-@Ambient Animals Pack/
+mods/
 
 #server files
 addons/
